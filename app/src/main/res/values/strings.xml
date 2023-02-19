@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Top100ITunesSongs</string>
+    <string name="songs_list_header">Top 100 songs</string>
+    <string name="artist_genre">%s | %s</string>
+    <string name="share_text_title">You should listen to it</string>
+    <string name="share_intent_title">Choose an app to share your song</string>
+    <string name="search_view_hint">Search your song</string>
+</resources>
